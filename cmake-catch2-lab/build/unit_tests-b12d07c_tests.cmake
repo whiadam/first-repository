@@ -1,0 +1,7 @@
+add_test( [==[Square root of positive numbers]==] /workspaces/first-repository/cmake-catch2-lab/build/unit_tests [==[Square root of positive numbers]==]  )
+set_tests_properties( [==[Square root of positive numbers]==] PROPERTIES WORKING_DIRECTORY /workspaces/first-repository/cmake-catch2-lab/build)
+add_test( [==[Square root throws on negative input]==] /workspaces/first-repository/cmake-catch2-lab/build/unit_tests [==[Square root throws on negative input]==]  )
+set_tests_properties( [==[Square root throws on negative input]==] PROPERTIES WORKING_DIRECTORY /workspaces/first-repository/cmake-catch2-lab/build)
+add_test( [==[Square root of non-perfect square]==] /workspaces/first-repository/cmake-catch2-lab/build/unit_tests [==[Square root of non-perfect square]==]  )
+set_tests_properties( [==[Square root of non-perfect square]==] PROPERTIES WORKING_DIRECTORY /workspaces/first-repository/cmake-catch2-lab/build)
+set( unit_tests_TESTS [==[Square root of positive numbers]==] [==[Square root throws on negative input]==] [==[Square root of non-perfect square]==])

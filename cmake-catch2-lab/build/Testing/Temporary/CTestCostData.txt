@@ -1,0 +1,4 @@
+Square root of positive numbers 1 0.0025975
+Square root throws on negative input 1 0.00255791
+Square root of non-perfect square 1 0.00394138
+---

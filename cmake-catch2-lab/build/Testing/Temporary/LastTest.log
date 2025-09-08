@@ -1,0 +1,63 @@
+Start testing: Sep 03 02:48 UTC
+----------------------------------------------------------
+1/3 Testing: Square root of positive numbers
+1/3 Test: Square root of positive numbers
+Command: "/workspaces/first-repository/cmake-catch2-lab/build/unit_tests" "Square root of positive numbers"
+Directory: /workspaces/first-repository/cmake-catch2-lab/build
+"Square root of positive numbers" start time: Sep 03 02:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Square root of positive numbers"
+Randomness seeded to: 2048685802
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Square root of positive numbers" end time: Sep 03 02:48 UTC
+"Square root of positive numbers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: Square root throws on negative input
+2/3 Test: Square root throws on negative input
+Command: "/workspaces/first-repository/cmake-catch2-lab/build/unit_tests" "Square root throws on negative input"
+Directory: /workspaces/first-repository/cmake-catch2-lab/build
+"Square root throws on negative input" start time: Sep 03 02:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Square root throws on negative input"
+Randomness seeded to: 875138108
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Square root throws on negative input" end time: Sep 03 02:48 UTC
+"Square root throws on negative input" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: Square root of non-perfect square
+3/3 Test: Square root of non-perfect square
+Command: "/workspaces/first-repository/cmake-catch2-lab/build/unit_tests" "Square root of non-perfect square"
+Directory: /workspaces/first-repository/cmake-catch2-lab/build
+"Square root of non-perfect square" start time: Sep 03 02:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Square root of non-perfect square"
+Randomness seeded to: 3290167859
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Square root of non-perfect square" end time: Sep 03 02:48 UTC
+"Square root of non-perfect square" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 03 02:48 UTC
