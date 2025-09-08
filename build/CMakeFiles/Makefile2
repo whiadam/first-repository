@@ -257,8 +257,8 @@ CMakeFiles/app.dir/clean:
 # All Build rule for target.
 CMakeFiles/tests.dir/all: _deps/yaml-cpp-build/CMakeFiles/yaml-cpp.dir/all
 CMakeFiles/tests.dir/all: CMakeFiles/core.dir/all
-CMakeFiles/tests.dir/all: _deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/all
 CMakeFiles/tests.dir/all: _deps/catch2-build/src/CMakeFiles/Catch2.dir/all
+CMakeFiles/tests.dir/all: _deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/workspaces/first-repository/build/CMakeFiles --progress-num=75 "Built target tests"

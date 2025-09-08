@@ -1,5 +1,0 @@
-Student JSON serialization 1 0.00454603
-Instructor YAML serialization 1 0.00296211
-CSV escaping handles commas and quotes 1 0.00297541
-Validation throws on bad email 1 0.00775726
----
